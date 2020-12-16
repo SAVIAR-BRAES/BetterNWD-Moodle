@@ -1,8 +1,6 @@
 {
     "manifest_version": 2,
 
-    "content-type": "application/x-chrome-extension",
-
     "name": "BetterNWDMoodle",
     "version": "0.2",
     "description": "Rozszerzenie poprawiające wygląd nowodworskiego Moodle'a",
