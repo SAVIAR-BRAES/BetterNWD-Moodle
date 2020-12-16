@@ -83,3 +83,35 @@ p
 {
     color: #cccccc !important;
 }
+.content
+{
+    color: #cccccc !important;
+    border-radius: 20px !important;
+}
+.weekend
+{
+    color: #ffaaaa !important;
+}
+#page-footer
+{
+    background-color: #333333 !important;
+}
+#page-header-wrapper
+{
+    background-image: none !important;
+    background-color: #333333 !important;
+}
+#navwrap
+{
+    background-color: #333333 !important;
+    border-bottom: none !important;
+}
+.bg-white
+{
+    background-color: #424242 !important;
+}
+#above-header
+{
+    border-bottom: none !important;
+    background-color: #424242 !important;
+}
