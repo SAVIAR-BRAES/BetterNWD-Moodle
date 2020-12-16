@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+
+    "name": "BetterNWDMoodle",
+    "version": "0.2",
+    "description": "Rozszerzenie poprawiające wygląd nowodworskiego Moodle'a. GitHub: https://github.com/SAVIAR-BRAES/BetterNWD-Moodle ; @SAVIAR BRAES 2020 made by Matmar Space ; Facebook: https://www.facebook.com/SAVIAR-BRAES-101153275004273",
+
+    "content_scripts": 
+    [{
+        "css": ["styles.css"],
+        "matches": ["http://moodle.nowodworek.krakow.pl/*"]
+    }]
+}
