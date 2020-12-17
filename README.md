@@ -16,3 +16,4 @@ ___
 3. OPERA
 
 ## GOOGLE CHROME
+![LOADING...](/ASSETS/IMAGES/1.png)
