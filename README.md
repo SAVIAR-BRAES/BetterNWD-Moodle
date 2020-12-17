@@ -1,7 +1,7 @@
 # BetterNWD-Moodle
 
 #### BetterNWD-Moodle jest rozszerzeniem dla przeglądarek opartych na technologii Chromium, które poprawia wygląd strony internetowej https://moodle.nowodworek.krakow.pl .
-__
+___
 # INSTRUKCJA INSTALACJI
 1. POBRANIE PLIKU
 2. INSTALACJA W PRZEGLĄDARCE
